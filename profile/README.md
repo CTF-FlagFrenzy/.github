@@ -1,4 +1,4 @@
-# CTF-FlagFrenzy TopHack 2025
+<h1 align="center">CTF-FlagFrenzy TopHack 2025</h1>
 
 CTF-FlagFrenzy is a comprehensive, modern Capture The Flag platform designed for cybersecurity competitions, educational environments, and training purposes. This documentation site provides detailed information on all aspects of the platform.
 
@@ -38,13 +38,6 @@ This documentation is organized into the following sections:
   * Blockchain
   * Others
 
-## Community and Contribution
-
-CTF-FlagFrenzy is a community-driven project. We welcome contributions in the form of:
-
-* Challenge creation
-* Documentation improvements
-* Bug fixes and feature development
-* Community support
-
 Visit our GitHub repository to get involved.
+
+You can also check our documentation at [https://ctf-flagfrenzy.github.io](https://ctf-flagfrenzy.github.io)
