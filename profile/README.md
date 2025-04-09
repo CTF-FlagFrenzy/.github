@@ -21,23 +21,4 @@ The platform consists of several key components:
   * **Backend**: Node.js, Express, PostgreSQL, and Redis
 * **Challenge Deployment**: Automated systems for challenge creation and validation
 
-## Documentation Structure
-
-This documentation is organized into the following sections:
-
-* **Getting Started**: Basic information about the platform
-* **Infrastructure**: Details of the containerized environment
-* **Webapp**: Frontend and backend implementation details
-* **Challenges**: Detailed breakdowns of all challenges by category
-  * Web Challenges
-  * Cryptography
-  * Reversing
-  * Forensics
-  * Steganography
-  * OSINT
-  * Blockchain
-  * Others
-
-Visit our GitHub repository to get involved.
-
 You can also check our documentation at [https://ctf-flagfrenzy.github.io](https://ctf-flagfrenzy.github.io)
